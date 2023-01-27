@@ -1,0 +1,18 @@
+#
+# Calendar Configuration file
+#
+# see https://github.com/niccokunzmann/open-web-calendar/blob/master/default_specification.yml
+#
+
+title: "Amman Valley MakerSpace - Events, Dates and Meetings"
+
+url:
+- ammanvalley.foss.wales/calendar.ics
+
+tabs:
+- month
+- week
+- day
+- agenda
+
+
