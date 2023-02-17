@@ -11,6 +11,9 @@ url:
 - https://ammanvalley.foss.wales/calendar.ics
 # calendar for the volunteers
 - https://calendar.google.com/calendar/ical/2f7e4052428e2c8edfe842675f5141d958787c50743c184c41613dac9ed7a9e6%40group.calendar.google.com/public/basic.ics
+# calendar using sharepoint and the council
+- https://outlook.office365.com/owa/calendar/9bddd9b5aed4474abf54f8bb55356a62@cwmamantc.org/81fb328b32eb46e0ae15ff1cb8075a0316308843823653620034/calendar.ics
+
 
 tabs:
 - month
